@@ -1,1 +1,1 @@
-# Viewpoint-API-Script
+# Viewpoint API Script
